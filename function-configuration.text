@@ -35,11 +35,6 @@
     "slotSetting": false
   },
   {
-    "name": "AzureWebJobsDashboard",
-    "value": "<changeme>",
-    "slotSetting": false
-  },
-  {
     "name": "AzureWebJobsStorage",
     "value": "<changeme>",
     "slotSetting": false
@@ -96,6 +91,16 @@
   },
   {
     "name": "tenantID",
+    "value": "<changeme>",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING",
+    "value": "<changeme>",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_CONTENTSHARE",
     "value": "<changeme>",
     "slotSetting": false
   }
